@@ -2,41 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Salary Prediction using Simple Linear Regression</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #f9f9f9;
-            color: #222;
-            line-height: 1.7;
-            margin: 40px;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #eee;
-            padding: 3px 6px;
-            border-radius: 4px;
-        }
-        .box {
-            background: #ffffff;
-            padding: 20px;
-            border-left: 6px solid #4CAF50;
-            margin: 20px 0;
-            border-radius: 6px;
-        }
-        pre {
-            background: #272822;
-            color: #f8f8f2;
-            padding: 15px;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-        ul li {
-            margin-bottom: 8px;
-        }
-    </style>
+    
 </head>
 
 <body>
